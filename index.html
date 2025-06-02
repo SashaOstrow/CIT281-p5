@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Monster Game</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <h1>Monster Battle Game</h1>
+
+  <div id="setup">
+    <label for="playerName">Enter Your Name:</label>
+    <input type="text" id="playerName" placeholder="e.g. Sasha" />
+
+    <label for="weaponSelect">Choose Your Weapon:</label>
+    <select id="weaponSelect"></select>
+
+    <button id="startGameBtn">Start Game</button>
+  </div>
+
+  <div id="gameArea" class="hidden">
+    <h2>Battle Log</h2>
+    <div id="gameLog"></div>
+    <button id="playRoundBtn">Play Round</button>
+    <button id="restartBtn">Restart Game</button>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
+

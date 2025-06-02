@@ -1,0 +1,38 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #1c0647;
+  padding: 20px;
+}
+
+h1 {
+  color: #ff4fe5;
+}
+
+#setup,
+#gameArea {
+  background: rgb(212, 212, 212);
+  padding: 15px;
+  border-radius: 8px;
+  margin-top: 10px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+#gameLog {
+  margin-top: 10px;
+  max-height: 300px;
+  overflow-y: auto;
+  border: 1px solid #ccc;
+  padding: 10px;
+  background: #fcfcfc;
+}
+
+button {
+  margin-top: 10px;
+  margin-right: 5px;
+  padding: 8px 12px;
+  cursor: pointer;
+}
+
+.hidden {
+  display: none;
+}
