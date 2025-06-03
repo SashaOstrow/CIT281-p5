@@ -9,7 +9,7 @@ After completing this project, you will:
     -Gain more experience working with objects and arrays
     -Have FUN creating a web-based game with AI!!!!
 
-Overview
+# Overview
 
 For this project, you will be creating some type of a game using a JavaScript class, a web server, a client program, and separate code modules.
 What game you choose to create is entirely up to you, so long as your final product meets the project requirements. You can use AI to assist with this project,
