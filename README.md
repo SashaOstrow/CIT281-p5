@@ -1,3 +1,4 @@
+# Project 5
 After completing this project, you will:
 
     -Gain experience working with classes, including class constructors and methods
@@ -19,3 +20,13 @@ The point of my video game is to be able to battle a monster that gets randomly 
 
 
 This project combined creativity with real-world development tools, bringing together **backend logic**, **server communication**, and **frontend interactivity** into one cohesive, playable experience.
+
+![Screenshot 2025-05-16 152615](https://github.com/user-attachments/assets/f3de49c8-2503-40b7-8120-8175517a0c65)
+
+![Screenshot 2025-05-16 152713](https://github.com/user-attachments/assets/30831397-eab3-4100-8ef6-39488a0fd25c)
+
+
+
+![Screenshot 2025-05-16 153010](https://github.com/user-attachments/assets/f63abbe8-aa86-49a2-a9e5-af76126d9ffb)
+
+
